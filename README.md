@@ -29,6 +29,14 @@ Example program to demonstrate 'perf' a rust program.
 
 Or dump into file and view it in the browser (https://www.speedscope.app/)
 
+![screenshot](screenshot/select.JPG)
+
+![screenshot](screenshot/time.JPG)
+
+![screenshot](screenshot/left_heavey.JPG)
+
+![screenshot](screenshot/sandwitch.JPG)
+
 ```
   sudo perf script -i perf_release.data > perf.out 
 ```
